@@ -1,0 +1,9 @@
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\bin\Debug\SVETSDA.dll
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\bin\Debug\SVETSDA.pdb
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\bin\Debug\Newtonsoft.Json.dll
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\bin\Debug\Newtonsoft.Json.xml
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\obj\Debug\SVETSDA.csprojResolveAssemblyReference.cache
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\obj\Debug\SVETSDA.csproj.CoreCompileInputs.cache
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\obj\Debug\SVETSDA.csproj.CopyComplete
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\obj\Debug\SVETSDA.dll
+c:\Users\STUDENT\source\repos\SVETSDB\SVETSDA\obj\Debug\SVETSDA.pdb

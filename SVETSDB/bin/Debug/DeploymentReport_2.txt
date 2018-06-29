@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Treatment]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Treatment].[OwnerId] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Treatment] (Foreign Key)
+       unnamed constraint on [dbo].[Treatment] (Foreign Key)
+       unnamed constraint on [dbo].[Treatment] (Foreign Key)
+     Table rebuild
+       [dbo].[Treatment] (Table)
+
+** Supporting actions
+     Create
+       Foreign Key: unnamed constraint on [dbo].[Treatment] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Treatment] (Foreign Key)
+
+The column [dbo].[Treatment].[OwnerId] is being dropped, data loss could occur.
+

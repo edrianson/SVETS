@@ -1,0 +1,33 @@
+﻿<Window x:Class="SVETSGUI.OwnersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SVETSGUI"
+        mc:Ignorable="d"
+        Title="OwnersWindow" Height="450" Width="276" Loaded="Window_Loaded" Unloaded="Window_Unloaded">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Button Name="buttonRead" Content="Read" Click="buttonRead_Click"/>
+            
+            <DataGrid Name="dataGridOwners" IsReadOnly="True" SelectionChanged="dataGridOwners_SelectionChanged"/>
+
+            <Button Name="buttonDelete" Content="Delete" Click="buttonDelete_Click"/>
+
+            <Label Content="OwnerId"/>
+            <TextBox Name="textBoxOwnerId" Text="{Binding OwnerId, Mode = TwoWay}" TextChanged="textBoxOwnerId_TextChanged"/>
+
+            <Label Content="SurName"/>
+            <TextBox Name="textBoxSurName" Text="{Binding SurName, Mode = TwoWay}" TextChanged="textBoxSurName_TextChanged"/>
+
+            <Label Content="GivenName"/>
+            <TextBox Name="textBoxGivenName" Text="{Binding GivenName, Mode = TwoWay}" TextChanged="textBoxGivenName_TextChanged"/>
+
+            <Label Content="Phone"/>
+            <TextBox Name="textBoxPhone" Text="{Binding Phone, Mode = TwoWay}" TextChanged="textBoxPhone_TextChanged"/>
+
+            <Button Name="buttonCreate" Content="Create" Click="buttonCreate_Click"/>
+            <Button Name="buttonUpdate" Content="Update" Click="buttonUpdate_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+2018-06-29 12:29:50.3853 TRACE OwnersWindow loaded
+2018-06-29 12:30:05.4918 TRACE OwnersWindow loaded
+2018-06-29 12:34:14.8400 TRACE OwnersWindow loaded
+2018-06-29 13:33:24.8195 TRACE OwnersWindow loaded
+2018-06-29 14:12:11.1705 TRACE OwnersWindow loaded
+2018-06-29 14:21:49.8082 TRACE OwnersWindow loaded
+2018-06-29 14:22:19.7095 DEBUG OwnersWindow.textBoxOwnerId: CustomExceptions.ValidationFailureException message displayed.
+2018-06-29 14:22:24.2465 DEBUG OwnersWindow.textBoxOwnerId: CustomExceptions.ValidationFailureException message displayed.
+2018-06-29 14:22:25.8429 DEBUG OwnersWindow.textBoxOwnerId: CustomExceptions.ValidationFailureException message displayed.
+2018-06-29 14:23:53.5385 TRACE OwnersWindow loaded
+2018-06-29 14:33:28.2450 TRACE OwnersWindow loaded
+2018-06-29 14:33:33.6205 DEBUG OwnersWindow.textBoxOwnerId: CustomExceptions.ValidationFailureException message displayed.
+2018-06-29 14:33:34.7371 DEBUG OwnersWindow.textBoxOwnerId: CustomExceptions.ValidationFailureException message displayed.
+2018-06-29 14:33:41.4870 DEBUG OwnersWindow.textBoxPhone: CustomExceptions.ValidationFailureException message displayed.

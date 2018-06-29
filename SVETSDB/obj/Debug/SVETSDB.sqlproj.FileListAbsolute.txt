@@ -1,0 +1,5 @@
+c:\users\student\source\repos\SVETSDB\SVETSDB\bin\Debug\SVETSDB.dacpac
+c:\users\student\source\repos\SVETSDB\SVETSDB\bin\Debug\SVETSDB.dll
+c:\users\student\source\repos\SVETSDB\SVETSDB\bin\Debug\SVETSDB.pdb
+c:\users\student\source\repos\SVETSDB\SVETSDB\obj\Debug\SVETSDB.dll
+c:\users\student\source\repos\SVETSDB\SVETSDB\obj\Debug\SVETSDB.pdb
